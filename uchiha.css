@@ -1,0 +1,401 @@
+/*
+* @Author: 86132
+* @Date:   2020-06-05 17:33:46
+* @Last Modified by:   86132
+* @Last Modified time: 2020-06-07 16:53:05
+*/
+.head {
+	background-color: black;
+}
+
+.top {
+	display: block;
+	margin: 0 auto;
+	height: 100px;
+	width: 1200px;
+	padding-top: 40px;
+}
+
+.logo {
+	display: inline-block;
+}
+
+.logo img {
+}
+
+.chinese {
+	display: inline-block;
+	position: relative;
+	top: -20px;
+}
+
+.chinese p {
+	color: red;
+	font-size: 25px;
+	font-family: "宋体";
+}
+
+.dh {
+	display: inline-block;
+	height: 30px;
+	margin-right: 20px;
+	margin-left: 60px;
+	position: relative;
+	top: -20px;
+}
+
+.dh:hover {
+	border-bottom: 1px solid red;
+}
+
+.dh a {
+	color: white;
+	font-size: 18px;
+}
+
+.input {
+	display: inline-block;
+	position: relative;
+	top: -20px;
+	margin-left: 60px;
+}
+
+input {
+	display: inline-block;
+	height: 40px;
+	width: 200px;
+	border: 1px solid red;
+	color: #bfbfbf;
+	padding-left: 19px;
+	font-size: 14px;
+	font-family:Microsoft YaHei;	
+}
+
+.input img {
+	position: relative;
+	top: 15.5px;
+	left: -6px;
+	border: 1px solid red;
+}
+
+.headpic {
+	display: block;
+	margin: 0 auto;
+	width: 1200px;
+	height: 399px;
+	background-image: url(png/every2副本.jpg.png);
+	background-repeat: no-repeat;
+}
+
+.hui {
+	height: 399px;
+	width: 250px;
+	background-color: rgba(255,255,255,0.3);
+}
+
+.huidh {
+	display: inline-block;
+	width: 250px;
+	height: 57px;
+}
+
+.huidh a {
+	display: inline-block;
+	color: rgba(0,0,0,1);
+	font-size: 20px;
+	line-height: 55px;
+	font-family: "SimHei";
+	margin-left: 40px;
+}
+
+.zhi a {
+	color: red;
+	font-style: bold;
+}
+
+.body {
+	background-color: black;
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+
+.renzhe {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.jie {
+	display: block;
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.jie div {
+	display: inline-block;
+	width: 600px;
+	line-height: 60px;
+}
+
+.chu {
+	color: white;
+	opacity: 0.7;
+	font-size: 20px;
+}
+
+.chak {
+	color: white;
+	opacity: 0.3;
+	font-size: 15px;
+	font-family: "SimHei";
+	float: right;
+	text-align: right;
+}
+
+.ren1 {
+	display: block;
+	margin: 0 auto;
+	width: 1200px;
+	padding-left: 20px;
+}
+
+.ren1 div{
+	display: inline-block;
+	width: 270px;
+	height: 270px;
+	margin-right: 24px;
+}
+
+.sasuke {
+	margin-right: 0px;
+	background-image: url(png/sasuke.jpg);
+}
+
+
+.madala {
+	background-image: url(png/madala.jpg);
+}
+
+.obito {
+	background-image: url(png/obito.jpg);
+}
+
+.itachi {
+	background-image: url(png/itachi.jpg);
+}
+
+.yisa {
+	background-image: url(png/yisa.jpg);
+	margin-top: 20px;
+}
+
+.sisui {
+	background-image: url(png/xisui.jpg);
+	margin-top: 20px;
+}
+
+.fuyue {
+	background-image: url(png/fuyue.jpg);
+	margin-top: 20px;
+}
+
+.jing {
+	background-image: url(png/jing.jpg);
+	margin-top: 20px;
+}
+
+.ren1 .renhui {
+	margin-top: 200px;
+	display: block;
+	width: 250px;
+	height: 70px;
+	background-color: rgba(0,0,0,0.5);
+	padding-left: 20px;
+	line-height: 70px;
+	font-size: 16px;
+	color: white;
+	opacity: 0.7
+}
+
+.zixun {
+	display: block;
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+
+.zuicha {
+	display: block;
+	float: right;
+}
+
+.zuicha a {
+	color: rgba(255,255,255,0.5);
+	font-size: 15px;
+}
+
+.tittle {
+	display: block;
+	width: 300px;
+	color: white;
+	opacity: 0.7;
+	font-size: 30px;
+	font-family: "SimHei";
+	margin-bottom: 30px;
+}
+
+.bir {
+	display: block;
+	margin: 0 auto;
+	width: 1200px;
+	height: 564px;
+	border: 3px solid red;
+	border-color: rgba(255,0,0,0.5);
+	background-image: url(png/itachibir.jpg);
+	margin-bottom: 30px;
+}
+
+.birhui {
+	display: block;
+	margin-top: 364px;
+	height: 200px;
+	width: 1200px;
+	background-color: rgba(0,0,0,0.2);
+}
+
+.shen {
+	display: block;
+	color: rgba(255,255,255,0.7);;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-top: 30px;
+	line-height: 50px;
+}
+
+.zheng {
+	display: block;
+	color: rgba(255,255,255,0.7);
+	font-size: 20px;
+	font-family: "SimHei";
+	margin-left: 100px;
+	margin-right: 60px;
+	margin-top: 30px;
+}
+
+.bircha {
+	display: block;
+	float: right;
+	margin-right: 60px;
+}
+
+.bircha a {
+	color: rgba(255,0,0,1);
+	font-size: 15px;
+}
+
+.bircha a:hover {
+	text-decoration: underline;
+}
+
+.little {
+	display: block;
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+.zuixin {
+	display: inline-block;
+	height: 30px;
+	width: 500px;
+	color: rgba(255,255,255,0.5);
+	font-size: 18px;
+}
+
+.resou {
+	display: inline-block;
+	height: 30px;
+	width: 300px;
+	float: right;
+	color: rgba(255,0,0,1);
+	font-size: 18px;
+}
+
+.resou {
+	float: right;
+}
+
+.ul {
+	display: inline-block;
+	width: 500px;
+}
+
+li a {
+	display: inline-block;
+	color: white;
+	height: 30px;
+	font-family: "SimHei";
+}
+
+li a:hover {
+	text-decoration: underline;
+}
+
+li {
+	color: white;
+}
+
+.ol {
+	display: inline-block;
+	width: 270px;
+	float: right;
+}
+
+ol li {
+	color: rgba(255,0,0,0.7);
+}
+
+ol a {
+	color: rgba(255,0,0,0.7);
+}
+
+.feet {
+	display: block;
+	background-color: black;
+	height: 270px;
+}
+
+.feetpic {
+	display: block;
+	margin: 0 auto;
+	width: 1260px;
+	border-top: 3px dotted red;
+	padding-top: 60px;
+}
+
+.diyi {
+	display: block;
+	margin: 0 auto;
+	width: 420px;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	margin-bottom: 75px;
+}
+
+.dier {
+	display: block;
+	margin: 0 auto;
+	width: 160px;
+	font-size: 16px;
+	color: rgba(255,0,0,1);
+	margin-bottom: 10px;
+}
+
+.disan {
+	color: white;
+	display: block;
+	margin: 0 auto;
+	width: 360px;
+	font-size: 20px;
+	color: rgba(255,0,0,1);
+}
